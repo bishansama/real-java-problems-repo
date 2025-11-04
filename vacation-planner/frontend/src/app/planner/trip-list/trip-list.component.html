@@ -1,0 +1,9 @@
+<div class="trip-list-container">
+  <button mat-raised-button color="primary" routerLink="/planner/new">New Trip</button>
+  <mat-list>
+    <mat-list-item *ngFor="let trip of trips">
+      <h3 matLine>{{ trip.title }}</h3>
+      <p matLine>{{ trip.destination }}</p>
+    </mat-list-item>
+  </mat-list>
+</div>

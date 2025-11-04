@@ -1,0 +1,5 @@
+com/example/databaseoptimization/service/CustomerService.class
+com/example/databaseoptimization/model/Customer.class
+com/example/databaseoptimization/DatabaseOptimizationApplication.class
+com/example/databaseoptimization/repository/CustomerRepository.class
+com/example/databaseoptimization/controller/CustomerController.class

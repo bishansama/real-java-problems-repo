@@ -1,0 +1,14 @@
+/Users/shreyapaul/workspace/Cursor-Projects/real-java-problems-repo/vacation-planner/backend/src/main/java/com/example/vacationplanner/security/JwtTokenUtil.java
+/Users/shreyapaul/workspace/Cursor-Projects/real-java-problems-repo/vacation-planner/backend/src/main/java/com/example/vacationplanner/repository/TripRepository.java
+/Users/shreyapaul/workspace/Cursor-Projects/real-java-problems-repo/vacation-planner/backend/src/main/java/com/example/vacationplanner/security/JwtRequestFilter.java
+/Users/shreyapaul/workspace/Cursor-Projects/real-java-problems-repo/vacation-planner/backend/src/main/java/com/example/vacationplanner/controller/AuthController.java
+/Users/shreyapaul/workspace/Cursor-Projects/real-java-problems-repo/vacation-planner/backend/src/main/java/com/example/vacationplanner/repository/UserRepository.java
+/Users/shreyapaul/workspace/Cursor-Projects/real-java-problems-repo/vacation-planner/backend/src/main/java/com/example/vacationplanner/controller/AuthRequest.java
+/Users/shreyapaul/workspace/Cursor-Projects/real-java-problems-repo/vacation-planner/backend/src/main/java/com/example/vacationplanner/model/User.java
+/Users/shreyapaul/workspace/Cursor-Projects/real-java-problems-repo/vacation-planner/backend/src/main/java/com/example/vacationplanner/security/SecurityConfig.java
+/Users/shreyapaul/workspace/Cursor-Projects/real-java-problems-repo/vacation-planner/backend/src/main/java/com/example/vacationplanner/model/Trip.java
+/Users/shreyapaul/workspace/Cursor-Projects/real-java-problems-repo/vacation-planner/backend/src/main/java/com/example/vacationplanner/service/UserDetailsServiceImpl.java
+/Users/shreyapaul/workspace/Cursor-Projects/real-java-problems-repo/vacation-planner/backend/src/main/java/com/example/vacationplanner/controller/AuthResponse.java
+/Users/shreyapaul/workspace/Cursor-Projects/real-java-problems-repo/vacation-planner/backend/src/main/java/com/example/vacationplanner/config/JwtProperties.java
+/Users/shreyapaul/workspace/Cursor-Projects/real-java-problems-repo/vacation-planner/backend/src/main/java/com/example/vacationplanner/controller/TripController.java
+/Users/shreyapaul/workspace/Cursor-Projects/real-java-problems-repo/vacation-planner/backend/src/main/java/com/example/vacationplanner/VacationPlannerApplication.java

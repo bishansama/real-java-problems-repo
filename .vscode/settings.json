@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        "redis-cache/src/main/java/com/example/rediscache",
+        "parallel-flatmap",
+        "flat-map",
+        "analytic-app",
+        "database-optimization/src/main/java/com/example/databaseoptimization"
+    ]
+}
